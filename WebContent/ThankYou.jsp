@@ -10,5 +10,7 @@
 <h3>Thank You <% session.getAttribute("fname"); %>&nbsp; <% session.getAttribute("lname"); %></h3>
 <a href="http://localhost:8080/NinjaEx/index.html">Go Back to Home Page</a>
     <p> How did this is done ? </p>
+    <p> It was done very peaceful </p>
+    
 </body>
 </html>
