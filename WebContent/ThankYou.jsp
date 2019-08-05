@@ -11,6 +11,6 @@
 <a href="http://localhost:8080/NinjaEx/index.html">Go Back to Home Page</a>
     <p> How did this is done ? </p>
     <p> It was done very peaceful </p>
-    
+    <c:out value="kdhkf hd"></c:out>
 </body>
 </html>
